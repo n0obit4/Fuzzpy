@@ -1,6 +1,6 @@
 # Fuzzpy
 
-Fuzzpy is a personal mini proyect that consist in a mini web fuzzer
+Fuzzpy is a personal mini project that consists of a mini web fuzzer
 
 ## Requeriments
 
