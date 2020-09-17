@@ -1,4 +1,5 @@
 # Fuzzpy
+![Release]https://img.shields.io/badge/Release-1.0-Red.svg ![License](https://img.shields.io/badge/Licence-APACHE-brightgreen.svg)
 
 Fuzzpy is a personal mini project that consists of a mini web fuzzer
 
