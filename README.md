@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Platform-All-yellow.svg">
 </p>
 
-##Introduction
+## Introduction
 
 Fuzzpy is a personal mini project that consists of a mini web fuzzer that can be found directories, files or whatever your wordlist contains.
 
