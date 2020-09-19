@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/Fuzzpy"><img src="https://raw.githubusercontent.com/n0obit4/Fuzzpy/master/logo.png" alt="FuzzPy Logo" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/Fuzzpy"><img src="https://raw.githubusercontent.com/n0obit4/Fuzzpy/master/Logo.png" alt="FuzzPy Logo" border="0" width="180"></a>
   <br>
   FuzzPy
   <br>
