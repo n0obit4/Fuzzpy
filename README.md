@@ -1,5 +1,16 @@
-# Fuzzpy
-![Release](https://img.shields.io/badge/Release-v1.0-Red.svg) ![License](https://img.shields.io/badge/License-APACHE%202.0-brightyellow.svg)
+<h1 align="center">
+  <br>
+  <a href="https://github.com/n0obit4/Fuzzpy"><img src="https://raw.githubusercontent.com/n0obit4/Fuzzpy/master/logo.png" alt="FuzzPy Logo" border="0" width="180"></a>
+  <br>
+  FuzzPy
+  <br>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.0-Red.svg">
+  <img src="https://img.shields.io/badge/License-APACHE%202.0-brightyellow.svg">
+  <img src="https://img.shields.io/badge/Platform-All-yellow.svg">
+</p>
 
 Fuzzpy is a personal mini project that consists of a mini web fuzzer
 
